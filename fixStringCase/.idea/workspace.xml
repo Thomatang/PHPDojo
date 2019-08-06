@@ -17,8 +17,8 @@
       <file leaf-file-name="FixStringCase.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FixStringCase.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+            <state relative-caret-position="300">
+              <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -26,8 +26,8 @@
       <file leaf-file-name="FixStringCaseTest.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/FixStringCaseTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="67" lean-forward="true" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
+            <state relative-caret-position="165">
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -46,8 +46,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/FixStringCase.php" />
         <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/src/FixStringCase.php" />
         <option value="$PROJECT_DIR$/tests/FixStringCaseTest.php" />
       </list>
     </option>
@@ -165,12 +165,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565093587470</updated>
-      <workItem from="1565093589797" duration="519000" />
+      <workItem from="1565093589797" duration="1234000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="FixStringCaseTest - 2019.08.06 at 14h 20m 00s.xml">
+      <configuration name="FixStringCaseTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="FixStringCaseTest - 2019.08.06 at 14h 21m 20s.xml">
+      <configuration name="FixStringCaseTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="FixStringCaseTest - 2019.08.06 at 14h 24m 36s.xml">
+      <configuration name="FixStringCaseTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="FixStringCaseTest - 2019.08.06 at 14h 25m 54s.xml">
+      <configuration name="FixStringCaseTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="FixStringCaseTest - 2019.08.06 at 14h 33m 10s.xml">
+      <configuration name="FixStringCaseTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="FixStringCaseTest - 2019.08.06 at 14h 33m 18s.xml">
+      <configuration name="FixStringCaseTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="FixStringCaseTest - 2019.08.06 at 14h 33m 28s.xml">
+      <configuration name="FixStringCaseTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="FixStringCaseTest - 2019.08.06 at 14h 33m 32s.xml">
+      <configuration name="FixStringCaseTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="519000" />
+    <option name="totallyTimeSpent" value="1234000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -213,15 +239,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FixStringCase.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        <state relative-caret-position="300">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/FixStringCaseTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="67" lean-forward="true" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
+        <state relative-caret-position="165">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
         </state>
       </provider>
     </entry>
