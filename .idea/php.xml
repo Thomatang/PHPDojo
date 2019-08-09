@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/composer" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/fixStringCase/vendor/phpunit/phpunit" />
+    </include_path>
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$PROJECT_DIR$/fixStringCase/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>

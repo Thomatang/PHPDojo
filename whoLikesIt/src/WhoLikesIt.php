@@ -2,11 +2,15 @@
 
 namespace App;
 
-class WhoLikesIt {
+class WhoLikesIt
+{
 
-    function likes( $names ) {
+    function likes($names)
+    {
+        if (empty($names)) return "";
 
-        // Your code here...
-        return "";
+        $nameString = implode($names);
+
+        return $nameString . " likes this.";
     }
 }

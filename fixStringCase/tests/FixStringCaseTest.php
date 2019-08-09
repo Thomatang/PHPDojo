@@ -11,5 +11,7 @@ class FixStringCaseTest extends PHPUnit\Framework\TestCase{
         $this->assertEquals("CODE", $fixStringCase->solve("CODe"));
         $this->assertEquals("code", $fixStringCase->solve("COde"));
         $this->assertEquals("code", $fixStringCase->solve("Code"));
+        $this->assertEquals("laiqaixjhroexsoubrqmkxmwxfds", $fixStringCase->solve("LAiQaiXjHrOexsOUbrQmkXMwXfDS"));
     }
 }
+
