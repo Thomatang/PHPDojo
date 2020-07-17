@@ -17,8 +17,8 @@
       <file leaf-file-name="WhoLikesIt.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/WhoLikesIt.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="300">
+              <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -26,8 +26,8 @@
       <file leaf-file-name="WhoLikesItTest.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/WhoLikesItTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+            <state relative-caret-position="405">
+              <caret line="27" column="63" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -161,8 +161,8 @@
     <configuration name="WhoLikesItTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
       <TestRunner class="WhoLikesItTest" file="$PROJECT_DIR$/tests/WhoLikesItTest.php" scope="Class" />
     </configuration>
-    <configuration name="WhoLikesItTest.testInputOneNameReturnCorrectText" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="WhoLikesItTest" file="$PROJECT_DIR$/tests/WhoLikesItTest.php" method="testInputOneNameReturnCorrectText" scope="Method" />
+    <configuration name="WhoLikesItTest.testInputFourNamesReturnCorrectText" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="WhoLikesItTest" file="$PROJECT_DIR$/tests/WhoLikesItTest.php" method="testInputFourNamesReturnCorrectText" scope="Method" />
     </configuration>
     <configuration name="WhoLikesItTest.testInputThreeNamesReturnCorrectText" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
       <TestRunner class="WhoLikesItTest" file="$PROJECT_DIR$/tests/WhoLikesItTest.php" method="testInputThreeNamesReturnCorrectText" scope="Method" />
@@ -176,17 +176,17 @@
     <list>
       <item itemvalue="PHPUnit.WhoLikesItTest" />
       <item itemvalue="PHPUnit.WhoLikesItTest.testInputTwoNamesReturnCorrectText" />
-      <item itemvalue="PHPUnit.WhoLikesItTest.testReturnEmptyInputEmptyArray" />
-      <item itemvalue="PHPUnit.WhoLikesItTest.testInputOneNameReturnCorrectText" />
       <item itemvalue="PHPUnit.WhoLikesItTest.testInputThreeNamesReturnCorrectText" />
+      <item itemvalue="PHPUnit.WhoLikesItTest.testInputFourNamesReturnCorrectText" />
+      <item itemvalue="PHPUnit.WhoLikesItTest.testReturnEmptyInputEmptyArray" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="PHPUnit.WhoLikesItTest" />
+        <item itemvalue="PHPUnit.WhoLikesItTest.testReturnEmptyInputEmptyArray" />
+        <item itemvalue="PHPUnit.WhoLikesItTest.testInputFourNamesReturnCorrectText" />
         <item itemvalue="PHPUnit.WhoLikesItTest.testInputThreeNamesReturnCorrectText" />
         <item itemvalue="PHPUnit.WhoLikesItTest.testInputTwoNamesReturnCorrectText" />
-        <item itemvalue="PHPUnit.WhoLikesItTest.testInputOneNameReturnCorrectText" />
-        <item itemvalue="PHPUnit.WhoLikesItTest.testReturnEmptyInputEmptyArray" />
       </list>
     </recent_temporary>
   </component>
@@ -202,48 +202,47 @@
       <updated>1565351436858</updated>
       <workItem from="1565351439073" duration="1370000" />
       <workItem from="1565352864901" duration="1272000" />
-      <workItem from="1565355626094" duration="1479000" />
+      <workItem from="1565355626094" duration="2423000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="WhoLikesItTest_testInputOneNameReturnCorrectText - 2019.08.09 at 15h 06m 22s.xml">
-      <configuration name="WhoLikesItTest.testInputOneNameReturnCorrectText" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="WhoLikesItTest_testInputOneNameReturnCorrectText - 2019.08.09 at 15h 06m 43s.xml">
-      <configuration name="WhoLikesItTest.testInputOneNameReturnCorrectText" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="WhoLikesItTest_testInputOneNameReturnCorrectText - 2019.08.09 at 15h 07m 36s.xml">
-      <configuration name="WhoLikesItTest.testInputOneNameReturnCorrectText" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="WhoLikesItTest_testInputTwoNamesReturnCorrectText - 2019.08.09 at 15h 12m 14s.xml">
-      <configuration name="WhoLikesItTest.testInputTwoNamesReturnCorrectText" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="WhoLikesItTest - 2019.08.09 at 15h 12m 19s.xml">
-      <configuration name="WhoLikesItTest" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="WhoLikesItTest_testInputTwoNamesReturnCorrectText - 2019.08.09 at 15h 18m 12s.xml">
-      <configuration name="WhoLikesItTest.testInputTwoNamesReturnCorrectText" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="WhoLikesItTest - 2019.08.09 at 15h 20m 33s.xml">
-      <configuration name="WhoLikesItTest" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="WhoLikesItTest_testInputThreeNamesReturnCorrectText - 2019.08.09 at 15h 23m 30s.xml">
-      <configuration name="WhoLikesItTest.testInputThreeNamesReturnCorrectText" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="WhoLikesItTest_testInputThreeNamesReturnCorrectText - 2019.08.09 at 15h 25m 06s.xml">
-      <configuration name="WhoLikesItTest.testInputThreeNamesReturnCorrectText" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
     <history-entry file="WhoLikesItTest - 2019.08.09 at 15h 25m 09s.xml">
+      <configuration name="WhoLikesItTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="WhoLikesItTest - 2019.08.09 at 15h 27m 18s.xml">
+      <configuration name="WhoLikesItTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="WhoLikesItTest_testInputFourNamesReturnCorrectText - 2019.08.09 at 15h 34m 52s.xml">
+      <configuration name="WhoLikesItTest.testInputFourNamesReturnCorrectText" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="WhoLikesItTest_testInputFourNamesReturnCorrectText - 2019.08.09 at 15h 35m 12s.xml">
+      <configuration name="WhoLikesItTest.testInputFourNamesReturnCorrectText" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="WhoLikesItTest - 2019.08.09 at 15h 35m 29s.xml">
+      <configuration name="WhoLikesItTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="WhoLikesItTest - 2019.08.09 at 15h 35m 38s.xml">
+      <configuration name="WhoLikesItTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="WhoLikesItTest_testReturnEmptyInputEmptyArray - 2019.08.09 at 15h 36m 58s.xml">
+      <configuration name="WhoLikesItTest.testReturnEmptyInputEmptyArray" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="WhoLikesItTest - 2019.08.09 at 15h 37m 34s.xml">
+      <configuration name="WhoLikesItTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="WhoLikesItTest - 2019.08.09 at 15h 37m 46s.xml">
+      <configuration name="WhoLikesItTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="WhoLikesItTest - 2019.08.09 at 15h 39m 59s.xml">
       <configuration name="WhoLikesItTest" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4121000" />
+    <option name="totallyTimeSpent" value="5065000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -252,7 +251,7 @@
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32923076" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32923076" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32923076" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -340,15 +339,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/WhoLikesItTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+        <state relative-caret-position="405">
+          <caret line="27" column="63" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/WhoLikesIt.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="32" selection-end-column="5" />
+        <state relative-caret-position="300">
+          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
         </state>
       </provider>
     </entry>
