@@ -1,0 +1,3 @@
+[submodule "GildedRose"]
+	path = GildedRose
+	url = https://github.com/laracasts/gilded-rose-with-phpunit
